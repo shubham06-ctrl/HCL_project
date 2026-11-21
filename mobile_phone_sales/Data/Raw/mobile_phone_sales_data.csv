@@ -1,0 +1,256 @@
+Sale_ID,Brand,City,Sales_Channel,Payment_Mode,Sale_Date,Unit_Price_INR,Units_Sold,Discount_Percent,Marketing_Spend_INR,Net_Sales_INR
+S2141,Vivo,Delhi,Retail Store,Cash,1/28/2025,30000,7,7,15500,195300
+S2144,Samsung,Bengaluru,Retail Store,Debit Card,9/17/2026,36000,10,3,41800,349200
+S2125,Xiaomi,Hyderabad,Online,UPI,10/16/2025,23600,9,4,22500,203904
+S2026,Realme,Bengaluru,Retail Store,UPI,4/6/2026,17800,19,5,21800,321290
+S2170,Vivo,Jaipur,Online,Cash,10/3/2025,26400,10,7,12100,245520
+S2025,Vivo,Bengaluru,Online,Credit Card,1/29/2026,30900,14,5,23500,410970
+S2163,Realme,Delhi,Retail Store,Debit Card,8/3/2026,22600,2,11,13400,40228
+S2018,Samsung,Jaipur,Retail Store,Debit Card,4/11/2026,34200,9,9,14500,280098
+S2235,Vivo,Mumbai,Online,UPI,3/27/2025,26400,12,2,15400,310464
+S2150,Samsung,Delhi,Retail Store,UPI,2/28/2026,40700,10,9,13400,370370
+S2132,Apple,Jaipur,Retail Store,Debit Card,8/17/2026,71600,8,10,20900,515520
+S2175,Vivo,Bengaluru,Online,UPI,6/11/2026,17300,8,10,11900,124560
+S2223,Xiaomi,Hyderabad,Marketplace,Cash,10/21/2026,30100,9,8,11100,249228
+S2155,Apple,Hyderabad,Marketplace,Credit Card,6/28/2026,73200,11,19,24600,652212
+S2211,Vivo,Mumbai,Marketplace,Credit Card,2/12/2025,24200,12,0,9700,290400
+S2124,Xiaomi,Mumbai,Online,Credit Card,2/9/2026,24100,10,3,,233770
+S2167,Realme,Delhi,Online,Credit Card,1/12/2026,18200,12,10,16500,196560
+S2174,Apple,Mumbai,Marketplace,Debit Card,6/12/2025,74000,6,8,36500,408480
+S2054,Samsung,Hyderabad,Marketplace,Debit Card,11/30/2024,30700,6,5,12400,174990
+S2135,Xiaomi,Delhi,Online,UPI,2/17/2025,27000,12,9,9400,294840
+S2232,Vivo,Delhi,Retail Store,Debit Card,8/5/2025,28500,8,3,23300,221160
+S2036,Realme,Hyderabad,Marketplace,Cash,11/6/2025,13600,11,1,22300,148104
+S2096,Samsung,Jaipur,Online,Debit Card,11/19/2024,44300,13,9,17000,524069
+S2233,Apple,Delhi,Marketplace,Debit Card,2/11/2026,63300,9,4,30000,546912
+S2119,Xiaomi,Jaipur,Online,Debit Card,11/29/2025,20500,10,18,24500,168100
+S2080,Apple,Jaipur,Marketplace,UPI,7/9/2025,,12,13,8300,725580
+S2098,Xiaomi,Bengaluru,,UPI,10/1/2025,,13,6,23700,237068
+S2077,Apple,Jaipur,Marketplace,UPI,2/11/2026,108100,13,2,7700,1377194
+S2023,Vivo,Hyderabad,Marketplace,UPI,5/21/2026,28000,11,8,12800,283360
+S2181,Samsung,Delhi,Online,Debit Card,12/11/2025,22900,9,3,20600,199917
+S2207,Xiaomi,Bengaluru,Retail Store,Debit Card,6/13/2026,15200,12,1,43600,180576
+S2081,Realme,Bengaluru,Retail Store,UPI,3/30/2026,19900,12,7,12200,222084
+S2193,Xiaomi,Delhi,Marketplace,UPI,1/20/2026,25100,8,6,11500,188752
+S2043,Apple,Delhi,Marketplace,Cash,1/22/2026,82900,10,9,19900,754390
+S2057,Vivo,Delhi,Marketplace,UPI,6/23/2026,25600,11,7,21900,261888
+S2093, REALME,Delhi,Online,UPI,6/22/2026,27700,11,1,17700,301653
+S2160,Vivo,Bengaluru,Online,UPI,2/14/2026,32300,6,15,18400,164730
+S2210,Samsung,Bengaluru,Retail Store,Debit Card,2/28/2025,26000,12,12,11100,274560
+S2194,Realme,Jaipur,Marketplace,Debit Card,9/4/2025,17200,8,6,13400,129344
+S2195,Vivo,Hyderabad,Marketplace,UPI,7/17/2025,27300,14,12,15000,336336
+S2097,Xiaomi,Mumbai,Online,Debit Card,3/4/2026,17300,11,8,22600,175076
+S2017,Xiaomi,Hyderabad,Retail Store,UPI,8/29/2026,21500,9,5,18600,183825
+S2182,Vivo,Jaipur,Online,Debit Card,11/3/2025,26300,12,14,8800,271416
+S2138,Samsung,Jaipur,Marketplace,Debit Card,12/3/2025,39600,13,5,25500,489060
+S2103,Samsung,Bengaluru,Retail Store,UPI,5/8/2025,52600,7,7,21500,342426
+S2020,Apple,Mumbai,Marketplace,Debit Card,6/2/2025,75600,11,11,22300,740124
+S2188,Realme,Delhi,Online,UPI,4/4/2026,22100,5,5,12800,104975
+S2172,Xiaomi,Bengaluru,Retail Store,UPI,12/18/2024,21300,6,7,39400,118854
+S2131,Samsung,Mumbai,Marketplace,UPI,1/9/2025,30600,6,7,9800,170748
+S2214,Realme,Mumbai,Marketplace,Cash,11/7/2025,15000,15,3,11300,218250
+S2039,Vivo,Bengaluru,Marketplace,Cash,11/9/2025,26200,9,4,9000,226368
+S2031,Xiaomi,Mumbai,Online,Debit Card,5/30/2026,20500,11,5,13200,214225
+S2022,Xiaomi,Mumbai,Marketplace,UPI,6/1/2026,21900,11,12,25500,211992
+S2024,Vivo,Mumbai,Online,UPI,4/3/2026,28400,6,9,16100,155064
+S2061,Vivo,Jaipur,Retail Store,Credit Card,2/4/2025,23000,8,3,16200,178480
+S2047,Xiaomi,Mumbai,Retail Store,Credit Card,3/29/2025,25500,8,1,5500,201960
+S2129,Vivo,Hyderabad,Retail Store,UPI,5/16/2026,17200,14,4,12800,231168
+S2062,Xiaomi,Bengaluru,Online,Credit Card,9/16/2025,18000,10,11,14900,160200
+S2237,Vivo,Bengaluru,Online,UPI,4/24/2026,23100,10,6,39100,217140
+S2157,Vivo,Jaipur,Marketplace,Debit Card,7/22/2026,24600,8,11,20300,175152
+S2088,Realme,Bengaluru,Online,Debit Card,6/2/2026,17100,7,3,44300,116109
+S2243,Realme,Mumbai,Retail Store,Credit Card,2/15/2025,26500,15,8,15400,365700
+S2250,Apple,Hyderabad,Retail Store,UPI,11/2/2025,63500,11,7,14100,649605
+S2128,Vivo,Delhi,Online,UPI,1/25/2026,22700,12,0,23100,272400
+S2014,Xiaomi,Bengaluru,Retail Store,Credit Card,9/25/2026,31000,12,5,18700,353400
+S2032,Vivo,Delhi,Retail Store,Debit Card,6/6/2025,23000,5,6,10100,108100
+S2041,Vivo ,Jaipur,Online,UPI,7/8/2025,26400,7,17,52200,153384
+S2146,Samsung,Mumbai,Marketplace,UPI,12/20/2025,41100,11,7,12900,420453
+S2152,Xiaomi,Delhi,Marketplace,Credit Card,10/8/2025,26800,6,13,26200,139896
+S2234,Xiaomi,Delhi,Marketplace,Credit Card,5/30/2025,21500,12,10,8400,232200
+S2095,Vivo,Delhi,Marketplace,Debit Card,5/5/2025,38700,12,3,9500,450468
+S2197,Samsung,Delhi,Online,Credit Card,11/15/2025,40500,11,14,11700,383130
+S2242,Xiaomi,Mumbai,Online,UPI,9/3/2025,25200,11,4,8700,266112
+S2201,Samsung,Hyderabad,Online,UPI,5/9/2026,26000,10,7,46000,241800
+S2189,Vivo,Mumbai,Marketplace,Debit Card,8/1/2025,29400,15,14,38200,379260
+S2177,Realme,Delhi,Online,Debit Card,7/3/2026,21100,12,14,6800,217752
+S2106,Xiaomi,Mumbai,Online,Cash,12/8/2024,21700,8,6,9900,163184
+S2245,XIAOMI,Delhi,Online,Credit Card,2/1/2026,86200,4,8,10100,317216
+S2172,Xiaomi,Bengaluru,Retail Store,UPI,12/18/2024,21300,6,7,39400,118854
+S2136,Apple,Delhi,Retail Store,Cash,6/5/2026,78400,13,8,22000,937664
+S2123,Realme,Bengaluru,Retail Store,UPI,7/28/2025,17200,14,10,10400,216720
+S2016,Xiaomi,Bengaluru,Retail Store,UPI,5/19/2025,14600,4,5,27700,55480
+S2117,Xiaomi,Bengaluru,Retail Store,Credit Card,4/9/2025,22300,6,5,28100,127110
+S2065,Xiaomi,Delhi,Retail Store,Credit Card,3/10/2025,21400,12,13,5800,223416
+S2114,Apple,Hyderabad,,UPI,12/4/2024,64700,6,10,26000,349380
+S2015,Xiaomi,Bengaluru,Marketplace,Credit Card,7/7/2026,17700,7,14,25900,106554
+S2224,Xiaomi,Mumbai,Online,Credit Card,7/30/2026,22600,11,7,21600,231198
+S2107,Apple,Mumbai,Retail Store,Credit Card,10/5/2026,54600,13,7,8700,660114
+S2048,Samsung,Delhi,Retail Store,UPI,11/15/2025,21800,4,8,17900,80224
+S2162,Vivo,Hyderabad,Marketplace,Debit Card,11/24/2025,22600,9,1,12000,201366
+S2081,Realme,Bengaluru,Retail Store,UPI,3/30/2026,19900,12,7,12200,222084
+S2186,Apple,Jaipur,Online,UPI,11/14/2025,59000,8,9,20200,429520
+S2045,Xiaomi,Hyderabad,Retail Store,Credit Card,1/21/2025,10400,16,3,12800,161408
+S2200,Xiaomi,Jaipur,Marketplace,Debit Card,10/13/2026,25500,15,1,11000,378675
+S2013,Realme,Mumbai,Retail Store,Debit Card,7/27/2026,18900,11,11,33300,185031
+S2247,Realme,Mumbai,Retail Store,UPI,7/22/2025,14900,8,14,9600,102512
+S2205,Samsung,Mumbai,Online,UPI,4/21/2026,18700,9,5,15400,159885
+S2142,Apple,Mumbai,Online,UPI,7/5/2026,54400,18,10,18100,881280
+S2089,Apple,Hyderabad,Online,Credit Card,1/29/2025,103000,12,9,36500,1124760
+S2238,Samsung,Jaipur,Marketplace,Credit Card,6/11/2026,31800,13,4,22900,396864
+S2046,Apple,Hyderabad,Retail Store,UPI,1/3/2026,76700,10,7,31800,713310
+S2002,Xiaomi,Mumbai,Marketplace,UPI,3/24/2026,26300,14,4,17300,353472
+S2115,Vivo,Bengaluru,Marketplace,UPI,1/11/2025,20300,6,7,52600,113274
+S2156,Vivo,Jaipur,Marketplace,Credit Card,1/9/2026,29800,13,8,33200,356408
+S2246,Realme,Mumbai,Online,UPI,11/7/2026,17200,18,8,33600,284832
+S2153,Samsung,Delhi,Marketplace,UPI,3/17/2026,22100,12,4,14200,254592
+S2109,Realme,Bengaluru,Online,Credit Card,5/29/2025,9000,16,6,16800,135360
+S2180,Apple,Jaipur,Retail Store,Debit Card,9/27/2026,57100,11,2,14000,615538
+S2149,Realme,Jaipur,Online,Cash,2/6/2025,23800,7,3,8800,161602
+S2122,Xiaomi,Delhi,Marketplace,Debit Card,5/11/2025,16800,13,5,23500,207480
+S2217,Vivo,Mumbai,Online,UPI,6/5/2025,21700,12,6,7700,244776
+S2001,Xiaomi,Delhi,Retail Store,Cash,2/23/2025,15700,5,1,14400,77715
+S2220,Xiaomi,Mumbai,Online,Cash,10/6/2026,18300,13,2,4000,233142
+S2230,Apple,Delhi,Marketplace,UPI,11/13/2025,70100,5,6,11200,329470
+S2187,Vivo,Delhi,Online,Credit Card,10/3/2025,32400,7,4,38800,217728
+S2074,Apple,Hyderabad,Marketplace,Credit Card,4/2/2026,68100,12,3,17600,792684
+S2192,Xiaomi,Hyderabad,Retail Store,UPI,8/31/2025,31200,15,15,21100,397800
+S2009,Vivo,Delhi,Marketplace,Debit Card,4/13/2025,18200,8,14,16300,125216
+S2063,Xiaomi,Mumbai,Retail Store,Credit Card,4/29/2026,21600,10,5,35900,205200
+S2198,Vivo,Bengaluru,Online,UPI,1/31/2026,37400,4,5,11300,142120
+S2079,Realme,Bengaluru,Retail Store,UPI,8/18/2026,25400,11,3,16800,271018
+S2099,Vivo,Hyderabad,Online,Credit Card,1/2/2026,30700,9,8,22400,254196
+S2178,Apple,Bengaluru,Marketplace,Debit Card,11/26/2024,54100,9,8,22900,447948
+S2139,Realme,Mumbai,Retail Store,Credit Card,8/6/2026,15200,9,1,5200,135432
+S2190,Samsung,Delhi,Retail Store,UPI,2/26/2025,32500,11,7,21700,332475
+S2075,Samsung,Delhi,Retail Store,UPI,10/7/2025,36500,10,15,14500,310250
+S2027,Realme,Mumbai,Online,Debit Card,6/20/2025,20300,9,3,11900,177219
+S2120,Realme,Bengaluru,Online,Debit Card,6/18/2026,23900,12,3,11800,278196
+S2133,Vivo,Jaipur,Retail Store,Debit Card,9/8/2025,31600,13,10,40300,369720
+S2239,Vivo,Mumbai,Online,UPI,9/19/2026,28100,14,3,24100,381598
+S2151,Apple,Delhi,Online,UPI,1/10/2025,81700,11,9,17800,817817
+S2176,Vivo,Hyderabad,Marketplace,Debit Card,10/8/2026,22200,8,10,18200,159840
+S2184,Vivo,Bengaluru,Marketplace,Debit Card,9/8/2026,31900,8,6,11700,239888
+S2154,Vivo,Mumbai,Retail Store,UPI,11/11/2025,28300,14,19,13800,320922
+S2086,Vivo,Delhi,Online,UPI,1/19/2026,26400,10,8,9100,242880
+S2158,Apple,Hyderabad,,UPI,10/31/2026,77800,9,8,9300,644184
+S2196,Realme,Mumbai,Retail Store,Debit Card,12/13/2024,19500,7,11,19700,121485
+S2147,Xiaomi,Hyderabad,Marketplace,Credit Card,1/11/2026,21200,9,3,16600,185076
+S2229,Samsung,Bengaluru,Marketplace,Debit Card,2/3/2025,36100,9,11,11900,289161
+S2005,Vivo,Mumbai,Marketplace,Debit Card,6/21/2026,31300,11,11,29700,306427
+S2006,Realme,Bengaluru,Online,Debit Card,10/30/2025,15100,13,8,21800,180596
+S2105,Xiaomi,Delhi,Marketplace,UPI,2/12/2025,19300,10,14,21800,165980
+S2143,Realme,Delhi,Retail Store,Credit Card,12/24/2025,15200,14,6,8200,200032
+S2221,Vivo,Mumbai,Online,Credit Card,4/24/2026,23600,11,19,9100,210276
+S2070,Samsung,Bengaluru,Online,Debit Card,5/22/2025,38000,19,5,16600,685900
+S2067,Samsung,Bengaluru,Online,Debit Card,6/23/2026,32900,8,3,19400,255304
+S2108,Apple,,Retail Store,Credit Card,3/26/2025,66900,7,9,13100,426153
+S2100,Vivo,Delhi,Online,Credit Card,9/28/2025,29200,17,11,8000,441796
+S2026,Realme,Bengaluru,Retail Store,UPI,4/6/2026,17800,19,5,21800,321290
+S2003,Samsung,Mumbai,Retail Store,Debit Card,2/1/2026,42700,11,8,23100,432124
+S2050,Xiaomi,Hyderabad,Marketplace,UPI,11/8/2026,21600,12,12,32700,228096
+S2222,Apple,Hyderabad,Marketplace,Credit Card,4/9/2026,64200,9,7,7400,537354
+S2213,Samsung,Mumbai,Marketplace,Debit Card,11/29/2024,39100,12,14,19500,403512
+S2033,Xiaomi,Mumbai,Retail Store,Cash,6/20/2026,25800,11,9,5400,258258
+S2166,samsung,Delhi,Retail Store,UPI,5/6/2025,14700,11,14,31700,139062
+S2121,Realme,Bengaluru,Online,UPI,2/10/2025,26400,11,11,12600,258456
+S2064,Samsung,Delhi,Retail Store,Cash,10/29/2025,,7,4,35500,155232
+S2168,Xiaomi,Bengaluru,Online,UPI,12/13/2024,16800,10,9,20500,152880
+S2104,Samsung,Delhi,Online,UPI,3/24/2026,37500,13,2,14100,477750
+S2076,Vivo,Delhi,Marketplace,Credit Card,6/13/2025,21400,10,2,14500,209720
+S2102,Xiaomi,Delhi,Online,Credit Card,11/23/2024,22100,16,1,13100,350064
+S2029,Samsung,Delhi,Marketplace,Debit Card,11/23/2024,49000,8,11,28300,348880
+S2021,Samsung,Delhi,Online,Credit Card,12/11/2025,,12,11,,416520
+S2037,Xiaomi,Bengaluru,Retail Store,Credit Card,10/14/2026,28000,11,12,,271040
+S2215,Vivo,Hyderabad,Marketplace,Debit Card,9/29/2026,21900,11,1,21100,238491
+S2148,Realme,Jaipur,Marketplace,UPI,11/4/2025,25000,13,16,65000,273000
+S2116,Vivo,Delhi,Marketplace,UPI,1/30/2026,25200,12,12,19200,266112
+S2127,Samsung,Delhi,Online,Credit Card,8/6/2025,33600,10,16,23000,282240
+S2059,Apple,Mumbai,Marketplace,UPI,8/27/2025,66700,9,2,18500,588294
+S2240,Xiaomi,,Retail Store,Debit Card,1/15/2026,21400,14,16,9200,251664
+S2034,Samsung,Delhi,Marketplace,Credit Card,9/15/2026,23100,10,6,9100,217140
+S2030,Apple,,Marketplace,Credit Card,4/27/2026,79900,18,5,19300,1366290
+S2113,Realme,Delhi,Retail Store,Debit Card,6/20/2025,16900,14,5,17600,224770
+S2216,Apple,Delhi,Retail Store,UPI,8/4/2026,67000,12,8,17300,739680
+S2058,Vivo,Mumbai,Online,Cash,1/4/2026,22300,7,4,26800,149856
+S2011,Xiaomi,Delhi,Retail Store,UPI,4/10/2025,13000,11,5,19800,135850
+S2169,Realme,Mumbai,Retail Store,UPI,9/26/2026,,4,11,3500,77964
+S2087,Xiaomi,Jaipur,Retail Store,UPI,11/14/2026,16400,7,6,21700,107912
+S2042,Apple,Hyderabad,Online,Debit Card,6/22/2026,66700,9,8,32300,552276
+S2179,Vivo,Bengaluru,,UPI,12/20/2025,24300,9,13,34300,190269
+S2137,Apple,Hyderabad,Retail Store,Credit Card,6/29/2026,80100,10,11,18500,712890
+S2171,Apple,Hyderabad,Marketplace,Credit Card,10/19/2025,62800,16,2,35400,984704
+S2173,Realme,Mumbai,Retail Store,UPI,1/24/2025,19700,12,13,37400,205668
+S2004,Xiaomi,Bengaluru,Online,Credit Card,4/19/2025,19400,14,3,22900,263452
+S2200,Xiaomi,Jaipur,Marketplace,Debit Card,10/13/2026,25500,15,1,11000,378675
+S2083,Samsung,Bengaluru,Retail Store,Credit Card,10/12/2025,35600,10,6,40700,334640
+S2218,Samsung,Jaipur,Online,UPI,7/3/2026,32000,9,10,19100,259200
+S2225,Vivo,Mumbai,Marketplace,UPI,5/3/2026,25000,8,2,19000,196000
+S2126,Realme,Delhi,Online,UPI,8/4/2026,29600,11,5,36100,309320
+S2071,Samsung,Mumbai,Online,Debit Card,9/11/2025,23500,12,12,20100,248160
+S2226,Xiaomi,Jaipur,Retail Store,UPI,11/12/2026,21500,8,3,38600,166840
+S2145,Realme,Delhi,Online,UPI,1/4/2025,26300,15,4,17600,378720
+S2019,Apple,Hyderabad,Online,Credit Card,4/17/2025,88000,8,7,65000,654720
+S2241,Vivo,Mumbai,Online,Debit Card,10/6/2025,22500,11,3,14300,240075
+S2012,Vivo,Hyderabad,Retail Store,Debit Card,3/9/2026,27400,11,9,19400,274274
+S2228,Xiaomi,Mumbai,,Cash,8/16/2025,15800,5,3,57700,76630
+S2084,Vivo,Mumbai,Online,Credit Card,1/15/2026,27100,10,8,26800,249320
+S2091,Vivo,Hyderabad,Marketplace,UPI,9/3/2025,24200,12,5,10900,275880
+S2159,Xiaomi,Delhi,Retail Store,Credit Card,3/23/2026,20200,10,4,18100,193920
+S2185,Apple,Delhi,Retail Store,Debit Card,1/10/2025,78100,9,3,21500,681813
+S2044,Vivo,Jaipur,Retail Store,Cash,12/16/2025,18400,16,8,13000,270848
+S2249,Samsung,Bengaluru,Online,UPI,10/13/2025,34100,4,7,21200,126852
+S2231,Xiaomi,Delhi,Marketplace,UPI,7/19/2025,18700,13,10,22700,218790
+S2068,Realme,Bengaluru,Retail Store,UPI,12/29/2024,18900,13,7,16900,228501
+S2209,Apple,Mumbai,Marketplace,Debit Card,3/4/2026,75000,12,12,,792000
+S2085,Apple,Mumbai,Retail Store,UPI,7/20/2026,51700,11,7,11900,528891
+S2094,Realme,Hyderabad,Online,Credit Card,8/3/2025,24700,9,14,13200,191178
+S2007,Xiaomi,Mumbai,Retail Store,Debit Card,5/6/2026,12400,13,8,12300,148304
+S2183, APPLE ,Jaipur,Marketplace,Cash,11/29/2025,30700,11,10,20200,303930
+S2010,Vivo,Jaipur,Marketplace,UPI,3/28/2026,21500,10,8,22800,197800
+S2035,Samsung,Delhi,Retail Store,Credit Card,11/25/2025,42000,10,2,17200,411600
+S2110,Xiaomi,Jaipur,Retail Store,Debit Card,5/21/2025,25700,9,7,21000,215109
+S2140,Vivo,Delhi,Marketplace,UPI,7/10/2026,18300,9,6,9200,154818
+S2101,Samsung,Delhi,Marketplace,UPI,9/1/2025,30900,3,3,17100,89919
+S2130,Vivo,Bengaluru,Retail Store,Cash,7/11/2025,24400,14,4,34100,327936
+S2052,Samsung,Mumbai,Marketplace,Credit Card,1/1/2025,26200,7,2,14900,179732
+S2069,Realme,,Retail Store,UPI,11/12/2026,25300,5,18,9200,103730
+S2038,Vivo,Delhi,Online,Debit Card,3/30/2025,22600,14,4,15000,303744
+S2112,Samsung,Mumbai,Retail Store,UPI,7/29/2025,40000,10,4,21000,384000
+S2040,Xiaomi,Mumbai,Retail Store,UPI,2/16/2025,15600,15,16,13000,196560
+S2111,Xiaomi,Delhi,Retail Store,UPI,9/8/2026,22100,13,9,7400,261443
+S2028,Apple,Hyderabad,Marketplace,UPI,4/30/2026,75200,13,13,17000,850512
+S2060,Vivo,Jaipur,Online,UPI,6/6/2026,26400,11,3,16800,281688
+S2248,Xiaomi,,Marketplace,Credit Card,6/6/2026,18400,7,5,27200,122360
+S2202,Xiaomi,Hyderabad,Retail Store,Debit Card,8/26/2025,24200,10,10,28200,217800
+S2199,Realme,Delhi,Retail Store,UPI,3/13/2026,20600,13,10,64700,241020
+S2078,Apple,Hyderabad,Online,Cash,5/12/2025,86200,16,7,15800,1282656
+S2092,Samsung,Bengaluru,Online,UPI,5/28/2025,40500,14,10,22600,510300
+S2165,Vivo,Delhi,Online,UPI,10/5/2026,18300,11,4,15000,193248
+S2164,Apple,Bengaluru,Retail Store,UPI,8/11/2026,93000,7,4,6100,624960
+S2053,Samsung,Delhi,Online,Credit Card,5/10/2025,38500,8,6,31400,289520
+S2219,Apple,Hyderabad,Online,UPI,9/17/2025,76800,10,4,8700,737280
+S2244,Realme,Hyderabad,Retail Store,Debit Card,10/21/2025,19100,10,1,21700,189090
+S2206,Apple,Mumbai,Online,Credit Card,4/3/2025,46000,10,125,21000,437000
+S2055,Xiaomi,Hyderabad,Retail Store,UPI,7/7/2026,14200,6,11,21400,75828
+S2073,Apple,Mumbai,Retail Store,Debit Card,11/22/2024,82100,11,6,30700,848914
+S2227,Realme,Jaipur,Online,Cash,1/19/2025,22000,12,15,18600,224400
+S2090,Xiaomi,Mumbai,Online,Debit Card,4/16/2026,20900,8,14,31600,143792
+S2118,Xiaomi,Delhi,Online,UPI,2/15/2026,21000,9,7,18900,175770
+S2203,Xiaomi,Bengaluru,Online,UPI,11/16/2025,21800,6,3,8500,126876
+S2072,Realme,Bengaluru,Marketplace,Credit Card,3/30/2026,11600,12,8,15700,128064
+S2161,Samsung,Bengaluru,Online,UPI,3/20/2026,26300,11,11,11500,257477
+S2204,Apple,Delhi,Marketplace,Cash,11/8/2026,79200,11,-8,15600,836352
+S2008,SAMSUNG ,Mumbai,Online,UPI,9/6/2025,67600,9,6,24700,571896
+S2051,Vivo,Delhi,Marketplace,Credit Card,6/29/2025,24300,8,8,11200,178848
+S2066,apple,Jaipur,Retail Store,UPI,5/23/2026,33200,9,3,26200,289836
+S2134,Realme,Bengaluru,Online,Cash,10/15/2025,22900,8,3,,177704
+S2056,Apple,Delhi,Online,UPI,12/15/2024,91100,6,3,27700,530202
+S2236,Realme,Hyderabad,Retail Store,UPI,10/17/2025,21900,10,3,19200,212430
+S2082,Vivo,Hyderabad,Online,Credit Card,9/13/2025,32200,4,8,4300,118496
+S2191,Vivo,Delhi,Online,Debit Card,3/12/2026,28000,12,6,21400,315840
+S2212,Xiaomi,Bengaluru,Online,Debit Card,8/7/2025,24500,14,3,9800,332710
+S2208,Samsung,Hyderabad,Marketplace,UPI,6/21/2025,38600,10,7,64400,358980
+S2049,Samsung,Bengaluru,Online,Credit Card,5/1/2025,34500,10,8,17400,317400
+S2151,Apple,Delhi,Online,UPI,1/10/2025,81700,11,9,17800,817817
